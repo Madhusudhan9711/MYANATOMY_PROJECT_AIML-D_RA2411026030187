@@ -1,1 +1,38 @@
-# MYANATOMY_PROJECT
+# SRM AIML PROJECT
+
+This repository contains practical assignments and machine learning implementations completed as part of the AIML coursework at SRM Institute of Science and Technology.
+
+---
+
+## 📌 Student Details
+
+- **Name:** Madhusudhan Sharma
+- **Registration Number:** RA2411026030187
+- **Branch & Section:** B.Tech CSE (AIML) - Section D
+- **Institution:** SRM Institute of Science and Technology, Delhi-NCR Campus
+
+---
+
+## 📂 Experiment Index
+
+| S.No. | Experiment / Notebook | Description | Link |
+| :---: | :--- | :--- | :---: |
+| 1 | **Data Handling with Pandas** | Creating, manipulating, and indexing DataFrames | [View Notebook](./DataFrame.ipynb) |
+| 2 | **EDA & Visualization** | Exploratory Data Analysis using Matplotlib / Seaborn | [View Notebook](./EDAMat.ipynb) |
+| 3 | **Linear Regression** | Simple & multiple linear regression implementation | [View Notebook](./LinearRegression.ipynb) |
+
+---
+
+## 🛠️ Tools & Libraries
+
+- **Language:** Python 3.x
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Platform:** Google Colab / Jupyter Notebook
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Madhusudhan9711/MYANATOMY_PROJECT_AIML-D_RA2411026030187.git](https://github.com/Madhusudhan9711/MYANATOMY_PROJECT_AIML-D_RA2411026030187.git)
